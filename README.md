@@ -57,4 +57,4 @@ To design a one-stop interactive Power BI dashboard that provides:
 
 This project demonstrates how a Data Analyst can convert raw sales data into business value using Power BI. The dashboard is not only visually engaging but also provides strategic insights for business growth.
 
-Screenshot & Demo - 
+Screenshot & Demo - https://github.com/bhijeetsend1994-lgtm/From-Dough-to-Data-Power-BI-Pizza-Sales-Analysis/blob/main/From%20Dough%20to%20Data.png
