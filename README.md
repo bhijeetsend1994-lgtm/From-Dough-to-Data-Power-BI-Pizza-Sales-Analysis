@@ -1,7 +1,5 @@
 From Dough to Data: Power BI Pizza Sales Analysis
 
-Pizza Sales Dashboard in Power BI | Turning Orders into Insights
-
 Discribtion-
 
 This project showcases how raw transactional data from a pizza sales business can be transformed into an interactive Power BI dashboard that delivers actionable insights.
@@ -57,4 +55,4 @@ To design a one-stop interactive Power BI dashboard that provides:
 
 This project demonstrates how a Data Analyst can convert raw sales data into business value using Power BI. The dashboard is not only visually engaging but also provides strategic insights for business growth.
 
-Screenshot & Demo - https://github.com/bhijeetsend1994-lgtm/From-Dough-to-Data-Power-BI-Pizza-Sales-Analysis/blob/main/From%20Dough%20to%20Data.png
+https://github.com/bhijeetsend1994-lgtm/From-Dough-to-Data-Power-BI-Pizza-Sales-Analysis/blob/main/From%20Dough%20to%20Data.png
